@@ -1,0 +1,1 @@
+export default function Deivces(){ return <h2>Devices</h2> }

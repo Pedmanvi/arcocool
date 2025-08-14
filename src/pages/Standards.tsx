@@ -1,0 +1,1 @@
+export default function Standars(){ return <h2>Standars</h2> }
